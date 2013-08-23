@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://nekoline.github.io/sitemap.xml 
